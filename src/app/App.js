@@ -9,6 +9,8 @@ import AppRoutes from "./routes";
 import Headermain from "../header";
 // import AnimatedCursor from "react-animated-cursor";
 import "./App.css";
+// import pic from "./src/assets/picofme.jpg";
+
 
 function _ScrollToTop(props) {
   const { pathname } = useLocation();
