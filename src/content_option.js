@@ -1,3 +1,5 @@
+import picofme from '../src/assets/picofme.jpg'
+
 const logotext = "Mari";
 const meta = {
     title: "Mari Champagne",
@@ -12,7 +14,7 @@ const introdata = {
         third: "I am open to work",
     },
     description: "A full stack developer utilizing Javascript and MERN",
-    your_img_url: "",
+    your_img_url: picofme,
 };
 
 const dataabout = {
